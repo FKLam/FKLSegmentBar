@@ -1,0 +1,16 @@
+PODS:
+  - FKLSegmentBar (0.1.0)
+
+DEPENDENCIES:
+  - FKLSegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  FKLSegmentBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FKLSegmentBar: bbe76242d3edeb2889325118da275c8c810c7250
+
+PODFILE CHECKSUM: c410880341a67bfd69b8a4702a57744b7c2d2fb2
+
+COCOAPODS: 1.2.1

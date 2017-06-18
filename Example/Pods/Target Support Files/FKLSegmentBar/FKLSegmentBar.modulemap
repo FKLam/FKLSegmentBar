@@ -1,0 +1,6 @@
+framework module FKLSegmentBar {
+  umbrella header "FKLSegmentBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
