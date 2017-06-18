@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FKLSegmentBar_Example' do
+  pod 'FKLSegmentBar', :path => '../'
+
+  target 'FKLSegmentBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
